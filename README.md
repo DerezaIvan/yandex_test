@@ -20,7 +20,7 @@
 
 Test task for Yandex Crowd
 
-## Что использовано
+## What is used
 
 - HTMl
 - CSS
@@ -30,6 +30,6 @@ Test task for Yandex Crowd
 - CSS variables
 - Slider implemented in pure JS
 
-## Ссылка на проект GitHub
+## Link to the Github project
 
 - [Yandex_test](https://derezaivan.github.io/yandex_test/)
